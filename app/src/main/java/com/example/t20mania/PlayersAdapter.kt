@@ -1,6 +1,8 @@
 package com.example.t20mania
 
 import android.content.Context
+import android.content.Intent
+import android.net.Uri
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -22,8 +24,6 @@ init {
     {
           val button= view.findViewById<Button>(R.id.country_button)
 
-
-
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PlayerViewHolder {
@@ -38,6 +38,15 @@ init {
         val context= holder.view.context
 
         holder.button.text=item
+
+        holder.button.setOnClickListener {
+
+
+            val queryUrl:Uri= Uri.parse("${SquadActivity.SEARCH_PREFIX}${item}")
+            val intent= Intent(Intent.ACTION_VIEW,queryUrl)
+
+             context.startActivity(intent)
+        }
 
 
     }
