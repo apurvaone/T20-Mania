@@ -43,6 +43,9 @@ class CountryViewHolder(val view:View):RecyclerView.ViewHolder(view)
         holder.button.setOnClickListener {
             val context= holder.view.context
             val intent= Intent(context,SquadActivity::class.java)
+
+            intent.putExtra(SquadActivity.Country,holder.button.text.toString())
+
             context.startActivity(intent)
 
 
