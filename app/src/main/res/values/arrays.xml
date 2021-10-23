@@ -17,6 +17,220 @@
 
 </string-array>
 
+<string-array name="Ind">
+    <item>Rohit Sharma</item>
+    <item>KL Rahul</item>
+    <item>Virat Kohli</item>
+    <item>Surya Kumar Yadav</item>
+    <item>Ishan Kishan</item>
+    <item>Rishabh Pant</item>
+    <item>Hardik Pandya</item>
+    <item>Ravindra Jadeja</item>
+    <item>Shardul Thakur</item>
+    <item>R Ashwin</item>
+    <item>Mohammad Shami</item>
+    <item>Jasprit Bumrah</item>
+    <item>Bhuvneshawar Kumar</item>
+    <item>Varun Chakrawarti</item>
+    <item>Shreyash Iyer</item>
+    <item>Axar Patel</item>
+
+</string-array>
+
+    <string-array name="Pak">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="New">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Aus">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Afg">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Sou">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Sco">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Wes">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Sri">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+    <string-array name="Ban">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+
+    <string-array name="Nam">
+        <item>Rohit Sharma</item>
+        <item>KL Rahul</item>
+        <item>Virat Kohli</item>
+        <item>Surya Kumar Yadav</item>
+        <item>Ishan Kishan</item>
+        <item>Rishabh Pant</item>
+        <item>Hardik Pandya</item>
+        <item>Ravindra Jadeja</item>
+        <item>Shardul Thakur</item>
+        <item>R Ashwin</item>
+        <item>Mohammad Shami</item>
+        <item>Jasprit Bumrah</item>
+        <item>Bhuvneshawar Kumar</item>
+        <item>Varun Chakrawarti</item>
+        <item>Shreyash Iyer</item>
+        <item>Axar Patel</item>
+
+    </string-array>
+
+
+
 
 
 

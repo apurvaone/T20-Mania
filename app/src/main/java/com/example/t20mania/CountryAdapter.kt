@@ -1,6 +1,7 @@
 package com.example.t20mania
 
 import android.content.Context
+import android.content.Intent
 import android.graphics.Typeface
 import android.os.Build
 import android.view.LayoutInflater
@@ -38,6 +39,14 @@ class CountryViewHolder(val view:View):RecyclerView.ViewHolder(view)
 //        val typeface = ctx.resources.getFont(R.font.montserrat_bold)
 //        holder.button.typeface=typeface
         holder.button.text=item
+
+        holder.button.setOnClickListener {
+            val context= holder.view.context
+            val intent= Intent(context,SquadActivity::class.java)
+            context.startActivity(intent)
+
+
+        }
 
     }
 
