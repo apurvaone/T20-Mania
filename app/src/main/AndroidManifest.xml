@@ -11,9 +11,11 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".SquadActivity"
+            android:parentActivityName="com.example.t20mania.MainActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
+
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

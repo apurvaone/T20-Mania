@@ -26,6 +26,11 @@ const val Country= "country"
         recyclerView.layoutManager=LinearLayoutManager(this)
         recyclerView.adapter=PlayersAdapter(countryname,this)
 
+        title= countryname
+
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
+
 
 
 
