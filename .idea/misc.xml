@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/drawable/ic_grid_layout.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/drawable/ic_linear_layout.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/font/montserrat_bold.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/layout/activity_squad.xml" value="0.1" />
         <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/layout/item_view.xml" value="0.1" />
+        <entry key="..\:/Users/apurva shukla/AndroidStudioProjects/T20Mania/app/src/main/res/menu/menu.xml" value="0.1796875" />
       </map>
     </option>
   </component>
